@@ -77,9 +77,11 @@ Project Link: https://github.com/GodBaap/e-Restaurant
 
 ## Acknowledgments
 
-* [https://www.coursera.org/](https://www.coursera.org/)
-* [https://www.w3schools.com/](https://www.w3schools.com/)
-* [https://www.google.co.in/](https://www.google.co.in/)
+* [Coursera](https://www.coursera.org/)
+* [W3Schools](https://www.w3schools.com/)
+* [Google](https://www.google.co.in/)
+* [GitHub Pages](https://pages.github.com)
+* [Shields.io](https://shields.io/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
