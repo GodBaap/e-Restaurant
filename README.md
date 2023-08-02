@@ -71,9 +71,10 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Arpan Mukherjee - arpan28mukherjee@gmail.com
+
 Project Link: https://github.com/GodBaap/e-Restaurant
 
-<!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 * [https://www.coursera.org/](https://www.coursera.org/)
